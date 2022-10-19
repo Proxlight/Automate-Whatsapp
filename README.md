@@ -1,5 +1,7 @@
 # 😊 Automate Whatsapp Messages Using Python
 
+## Introduction
+
 Hi everyone👋,Python is probably one of the coolest languages. And the fascinating about it is that you can automate day-to-day tasks.
 
 One such task we do every day is sending messages on WhatsApp.
@@ -12,10 +14,16 @@ Definitely, you can by using a library called pywhatkit. We can schedule message
 
 You can refer to our YouTube video to see a working tutorial for a better understanding and a step-by-step guide of the same.
 
+## Requirements
+Open up a terminal and run the following command.
 
-# ⭐ Links 
+pip install pywhatkit
 
-Link to Youtube Video : https://youtu.be/wC14fHOi5ls
+You can check out all the dependencies this library installed with the command pip list.
+
+## ⭐ Links 
+
+Link to Youtube Video : https://www.youtube.com/c/Proxlight
 
 Link to our Store : https://proxlightapps.gumroad.com
 
